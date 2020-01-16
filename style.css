@@ -1,7 +1,34 @@
 body {
+    
     color: white;
     background-color: teal;
     text-align: center;
-    margin: auto;
+    margin-top: 5em;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+head{
+padding: 10em;
+
+}
+
+.done {
+text-decoration: line-through ;
+}
+.todo {
+text-shadow: black ;
+}
+
+a {
+    text-align: center ;
+}
+
+li{
+    margin : auto
+}
+
+p{
+    display: inline-block;
+    padding: 1em;
 
 }
